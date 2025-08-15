@@ -1,0 +1,22 @@
+{
+    "users": [
+        {
+            "name": "scripting",
+            "user": 847541382134628400
+        },
+        {
+            "name": "scriptings",
+            "user": 847541382134628400
+        },
+        {
+            "name": "draingangpropaganda",
+            "user": 847541382134628383,
+            "authenticated": false
+        },
+        {
+            "name": "jonatanleandoerr",
+            "user": 953728215950712832,
+            "authenticated": true
+        }
+    ]
+}
